@@ -1,4 +1,3 @@
-# Used-Car-Price-Optimization-Market-Insights-using-Machine-Learning
 # Used Car Price Prediction (CarDekho Dataset)
 
 This project aims to build a machine learning model that can predict the selling price of a used car based on its features. The main goal of the project was to understand and practice the complete machine learning pipeline on real-world tabular data, rather than only optimizing for accuracy.
